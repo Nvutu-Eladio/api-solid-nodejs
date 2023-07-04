@@ -33,6 +33,9 @@ module.exports = {
         'semi': [
             'error',
             'never'
+        ],
+        '@typescript-eslint/no-unused-vars':[
+            'off'
         ]
     }
 }
