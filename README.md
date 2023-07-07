@@ -1,6 +1,6 @@
 # API-Solid-Nodejs
 
-##    GyPass Style App.
+##    GymPass Style App.
 
 ## RFs (Requisitos funcionais)
 
